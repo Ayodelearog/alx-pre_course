@@ -1,1 +1,1 @@
-This is my readme for 0x01 director
+This is my readme for Alx-pre_course
